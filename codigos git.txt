@@ -1,0 +1,30 @@
+git clone "Link copiado"
+
+git init 
+
+git add index.php
+
+git add --all
+
+git commit -m "ok"
+
+
+git remute add origem "url do repositorio" 
+
+
+git config --global user.name "Meu nome"
+
+
+git config --global user.email "phowkyx.1990@gmail.com"
+
+
+git push origem master  
+ 
+
+git pull origim master
+
+
+
+
+
+
